@@ -1,0 +1,29 @@
+.btn-xl {
+    color: #fff;
+    background-color:none;
+    border-color: #fed136;
+}
+.navbar-brand {
+    width: 150px;
+    height: auto;
+    float: left;
+    padding: 0px 0px;
+}
+#logo {
+	padding-top: 5px;
+	padding-left: 5px;
+	
+}
+@media(max-width: 640px) {
+  	#logo {
+  		width: 60%;
+  		float: left;
+  		padding-top: 15px;
+}
+
+#contact {
+    background-color: #222;
+    background-image: url(../img/map-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
